@@ -13,7 +13,7 @@ html {
 
 h1 {
   font-size: 3rem;
-  color: #e2dbdb;
+  color: #e2dbdb; 
 }
 
 hr {
@@ -47,4 +47,8 @@ hr {
 
 .btn-xl {
   padding: 1rem 2rem; 
+}
+
+.animate__animated.animate__zoomIn {
+  animation-duration: 3s;
 }
